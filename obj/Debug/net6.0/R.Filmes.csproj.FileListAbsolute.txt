@@ -1,0 +1,15 @@
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\bin\Debug\net6.0\R.Filmes.exe
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\bin\Debug\net6.0\R.Filmes.deps.json
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\bin\Debug\net6.0\R.Filmes.runtimeconfig.json
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\bin\Debug\net6.0\R.Filmes.dll
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\bin\Debug\net6.0\ref\R.Filmes.dll
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\bin\Debug\net6.0\R.Filmes.pdb
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.csproj.AssemblyReference.cache
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.AssemblyInfoInputs.cache
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.AssemblyInfo.cs
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.csproj.CoreCompileInputs.cache
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.dll
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\ref\R.Filmes.dll
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.pdb
+C:\Users\Vivian\Desktop\Filmes\R.Filmes\obj\Debug\net6.0\R.Filmes.genruntimeconfig.cache
